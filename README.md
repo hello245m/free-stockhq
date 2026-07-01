@@ -10,12 +10,35 @@
 
 🚀️ 使用方法（下载后)：
 
-**1 、双击 订阅.exe**
+**1 、双击 实时行情.exe**
 
 **2 、开始无限制调用**
 
 **完成**
 
 ---
-占位
-未完待续
+
+🚀️ 接口展示：
+
+**1 、实时行情：**
+
+http://127.0.0.1/add?code=xx,xx,xx
+
+http://127.0.0.1/del?code=xx,xx,xx
+
+http://127.0.0.1/get?code=xx,xx,xx&sse=1
+
+http://127.0.0.1/gethis?code=xx,xx,xx
+
+
+**2 、交易接口:**
+
+http://127.0.0.1/cha
+
+http://127.0.0.1/buy?code=xx&price=xx&vol=xx
+
+http://127.0.0.1/sell?code=xx&price=xx&vol=xx
+
+http://127.0.0.1/che
+
+未完待续-待更新。
